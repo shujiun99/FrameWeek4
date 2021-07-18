@@ -1,0 +1,2 @@
+rootProject.name = "FrameWeek4"
+include ':app'
